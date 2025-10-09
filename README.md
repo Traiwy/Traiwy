@@ -1,7 +1,11 @@
-## 📈 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username={{твой_логин}}&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={{твой_логин}}&layout=compact&theme=tokyonight)
+## 📈 Статистика GitHub
 
-## 🕒 Время за кодом (WakaTime)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Traiwy&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Traiwy&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Traiwy&theme=tokyonight&hide_border=true)
+
+---
+
+## ⏱ Время, потраченное на код (WakaTime)
+
+📈 Статистика автоматически обновляется раз в день с помощью [WakaTime](https://wakatime.com/@Traiwy).
